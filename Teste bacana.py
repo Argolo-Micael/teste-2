@@ -7,3 +7,5 @@ elif Hora <= "18:00":
     print(f"Boa tarde! {Nome}")
 else:
     print(f"Boa Noite! {Nome}") 
+
+Salario = float(input("Informe o valor do seu Salário R$: "))
