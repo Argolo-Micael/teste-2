@@ -9,3 +9,4 @@ else:
     print(f"Boa Noite! {Nome}") 
 
 Salario = float(input("Informe o valor do seu Salário R$: "))
+print(f"Salário R$: {Salario}")
