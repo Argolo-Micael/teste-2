@@ -1,2 +1,2 @@
-A = input("Informe seu Nome: ")
-B = print(f"Boa tarde {A}")
+Nome = input("Informe seu Nome: ")
+Resposta = print(f"Boa tarde {A}")
